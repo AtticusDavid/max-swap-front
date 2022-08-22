@@ -1,0 +1,39 @@
+{
+  "result": [
+    {
+      "address": "0xac89a315a197aa604054e66d765e0b94ed9137e5",
+      "symbol": "LINK",
+      "decimals": 18,
+      "name": "ChainLink Token",
+      "logoURI": "https://static.eisenfinance.com/tokens/polygon/0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39.png"
+    },
+    {
+      "address": "0x012959c0ae7f695e9665a58ad05def98945cf722",
+      "symbol": "CRV",
+      "decimals": 18,
+      "name": "CRV",
+      "logoURI": "https://static.eisenfinance.com/tokens/polygon/0x172370d5cd63279efa6d502dab29171933a610af.png"
+    },
+    {
+      "address": "0xf9c0eba79d452d3f426f12117de5a10676a812d3",
+      "symbol": "DAI",
+      "decimals": 18,
+      "name": "Dai Stablecoin",
+      "logoURI": "https://static.eisenfinance.com/tokens/polygon/0x8f3cf7ad23cd3cadbd9735aff958023239c6a063.png"
+    },
+    {
+      "address": "0xeaa28f9c17c31b2d6c310fc7c3efa8a761e5b4c1",
+      "symbol": "USDT",
+      "decimals": 6,
+      "name": "Tether USD",
+      "logoURI": "https://static.eisenfinance.com/tokens/polygon/0xc2132d05d31c914a87c6611c10748aeb04b58e8f.png"
+    },
+    {
+      "address": "0x9c3c9283d3e44854697cd22d3faa240cfb032889",
+      "symbol": "WMATIC",
+      "decimals": 18,
+      "name": "Wrapped Matic",
+      "logoURI": "https://static.eisenfinance.com/tokens/polygon/0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270.png"
+    }
+  ]
+}
