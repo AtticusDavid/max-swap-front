@@ -40,8 +40,8 @@ export const tokenPriceListAtom = atomWithQuery(get => ({
     });
 
     return data.result;
-  }
-
+  },
+  enabled: false,
 }))
 
 export const tokenOutAddressAtom = atom<string | undefined>(undefined);
